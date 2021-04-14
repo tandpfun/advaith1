@@ -1,9 +1,25 @@
 ### Hey There!
-- 🔭 I’m currently working on ChannelBot, my Discord bot.
-- 🌱 I’m currently learning NuxtJS & Vue
-- 📫 How to reach me: @cdngdev on twitter, Coding#0001 on discord, and coding@channelbot.xyz
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: red pandas are cool
+#### 😄 About Me:
+- JS Developer
+- he/him
+- Likes red pandas and polar bears
+
+#### 🔭 Cool Projects:
+- ChannelBot (Discord Bot): https://channelbot.xyz
+- FactCheqr (Hackathon winner): [Github Repo](https://github.com/tandpfun/discord-factcheck-bot)
+
+#### 🌱 I’m Learning:
+- NuxtJS (better than nextjs)
+- VueJS (also cool)
+- TailwindCSS (yes this too)
+
+#### 📫 Contact Me:
+-  [Twitter](https://twitter.com/cdngdev)
+-  [Discord](https://channelbot.xyz/support) (Coding#0001)
+-  [coding@channelbot.xyz](mailto:coding@channelbot.xyz)
+
+#### ⚡ Fun facts:
+- red pandas are cool
 
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)

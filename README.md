@@ -1,7 +1,7 @@
 ### Hey There!
 #### 😄 About Me:
 - Developer
-- he/him
+- he/they
 - Likes red pandas and polar bears
 
 #### 🔭 Cool Projects:

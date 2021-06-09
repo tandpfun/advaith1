@@ -1,10 +1,11 @@
 ### Hey There!
 #### 😄 About Me:
-- Developer
+- codes stuf
 - he/they
 - Likes red pandas and polar bears
 
 #### 🔭 Cool Projects:
+- DiscordTools: https://discordtools.io [Github Repo](https://github.com/tandpfun/discordtools)
 - ChannelBot (Discord Bot): https://channelbot.xyz
 - FactCheqr (Hackathon winner): [Github Repo](https://github.com/tandpfun/discord-factcheck-bot)
 
@@ -18,7 +19,7 @@
 -  [Discord](https://channelbot.xyz/support) (Coding#0001)
 -  [coding@channelbot.xyz](mailto:coding@channelbot.xyz)
 
-#### ⚡ Fun facts:
+#### ⚡ Facts:
 - red pandas are cool
 
 

@@ -2,25 +2,17 @@
 #### 😄 About Me:
 - codes stuf
 - he/they
-- Likes red pandas and polar bears
+- red pandas and polar bears r cool
 
 #### 🔭 Cool Projects:
 - DiscordTools: https://discordtools.io [Github Repo](https://github.com/tandpfun/discordtools)
 - ChannelBot (Discord Bot): https://channelbot.xyz
 - FactCheqr (Hackathon winner): [Github Repo](https://github.com/tandpfun/discord-factcheck-bot)
 
-#### 🌱 I’m Learning:
-- NuxtJS (better than nextjs)
-- VueJS (also cool)
-- TailwindCSS (yes this too)
-
 #### 📫 Contact Me:
 -  [Twitter](https://twitter.com/cdngdev)
 -  [Discord](https://channelbot.xyz/support) (Coding#0001)
 -  [coding@channelbot.xyz](mailto:coding@channelbot.xyz)
-
-#### ⚡ Facts:
-- red pandas are cool
 
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
